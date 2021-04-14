@@ -1,0 +1,18 @@
+[10-Apr-2021 23:13:03 UTC] PHP Warning:  require(): open_basedir restriction in effect. File(D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate\vendor\autoload.php) is not within the allowed path(s): (C:\inetpub\wwwroot) in D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate\artisan on line 18
+[10-Apr-2021 23:13:03 UTC] PHP Warning:  require(D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate\vendor\autoload.php): Failed to open stream: Operation not permitted in D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate\artisan on line 18
+[10-Apr-2021 23:13:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate/vendor/autoload.php' (include_path='.;C:\php\pear') in D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate\artisan:18
+Stack trace:
+#0 {main}
+  thrown in D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate\artisan on line 18
+[10-Apr-2021 23:13:42 UTC] PHP Warning:  require(): open_basedir restriction in effect. File(D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate\vendor\autoload.php) is not within the allowed path(s): (C:\inetpub\wwwroot) in D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate\artisan on line 18
+[10-Apr-2021 23:13:42 UTC] PHP Warning:  require(D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate\vendor\autoload.php): Failed to open stream: Operation not permitted in D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate\artisan on line 18
+[10-Apr-2021 23:13:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate/vendor/autoload.php' (include_path='.;C:\php\pear') in D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate\artisan:18
+Stack trace:
+#0 {main}
+  thrown in D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate\artisan on line 18
+[10-Apr-2021 23:13:56 UTC] PHP Warning:  require(): open_basedir restriction in effect. File(D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate\vendor\autoload.php) is not within the allowed path(s): (C:\inetpub\wwwroot) in D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate\artisan on line 18
+[10-Apr-2021 23:13:56 UTC] PHP Warning:  require(D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate\vendor\autoload.php): Failed to open stream: Operation not permitted in D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate\artisan on line 18
+[10-Apr-2021 23:13:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate/vendor/autoload.php' (include_path='.;C:\php\pear') in D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate\artisan:18
+Stack trace:
+#0 {main}
+  thrown in D:\admin\xaaphrodite\dev\BackEnd\Laravel\Implementation\Illuminate\artisan on line 18
